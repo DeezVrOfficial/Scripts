@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DeezVrOfficial/Scripts/refs/heads/main/Actual%20Scripts/Stream-Sniper.lua"))()
